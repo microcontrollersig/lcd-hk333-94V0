@@ -2,7 +2,7 @@
 
 This LCD has 14 pinouts.
 
-From the PDF of the LCD display chip [here](https://github.com/microcontrollersig/lcd-hk333-94V0/raw/master/KS0065B-lcd-datasheet%20-%20Copy.pdf)
+From the PDF of the LCD display chip [here](https://github.com/microcontrollersig/lcd-hk333-94V0/blob/master/KS0065B-lcd-datasheet%20-%20Copy.pdf)
 
 
 And the pinouts here:
