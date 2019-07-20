@@ -29,9 +29,14 @@ And the pinouts here:
 
 10: D3
 
-11: LED+ Power A
+11: D4
 
-12: LED- Power K
+12: D5
+
+13: D6
+
+14: D7
+
 ```
 
 Arduino LiquidCrystal library can be used in both 4-bit and 8-bit mode.
