@@ -65,6 +65,17 @@ d6: 13
 d7: 14
 ```
 
+# I2C Backpack
+
+Tronixlabs sells these
+
+https://tronixlabs.com.au/display/lcd/serial-i2c-backpack-for-hd44780-compatible-lcd-modules-australia/
+
+They use a PCF8574 I2C I/O Expander
+
+
+
+
 
 
 
